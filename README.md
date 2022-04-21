@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Einsteinj04
+- 👋 Hi, I’m Chukwuebuka Ukoha
 - 👀 I’m interested in ...AI and machine learning
 - 🌱 I’m currently learning ... Python programming
-- 💞️ I’m looking to collaborate on ... robots
-- 📫 How to reach me ...+2347042108167
+- 💞️ I’m looking to collaborate on ... open source projects
+- 📫 How to reach me ...jilchrisdascientist@gmail.com
 
 <!---
 Einsteinj04/Einsteinj04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
