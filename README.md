@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chukwuebuka Ukoha
 - 👀 I’m interested in ...MERN , Blockchain, AI and machine learning
-- 🌱 I’m currently learning ... Node js
+- 🌱 I’m currently learning ..Game Development
 - 💞️ I’m looking to collaborate on ... open source projects
 - 📫 How to reach me ...jilchrisdascientist@gmail.com
 
