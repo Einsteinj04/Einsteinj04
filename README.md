@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Chukwuebuka Ukoha
-- 👀 I’m interested in ...MERN , Blockchain, AI and machine learning
+- 👋 Hi, I’m Chukwuebuka Ukoha, a B.Eng Mechatronics Engineering graduate 
+- 👀 I’m interested in ...Robotics and Automation, Embedded Sysytems, AI/ML and full-stack web development
 - 🌱 I’m currently learning ..AI and Machine Learning
-- 💞️ I’m looking to collaborate on ... open source projects
+- 💞️ I’m looking to collaborate and work on ... open source, robotics and embedded systems projects
 - 📫 How to reach me ...jilchrisdascientist@gmail.com
 
 <!---
@@ -9,7 +9,7 @@ Einsteinj04/Einsteinj04 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2> 🚀 &nbsp; Technology Stacks and Tools</h2>
+<h2> 🚀 &nbsp; Technology Stacks for Software Development</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
