@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Chukwuebuka Ukoha, a B.Eng Mechatronics Engineering graduate 
 - 👀 I’m interested in ...Robotics and Automation, Embedded Sysytems, AI/ML and full-stack web development
 - 🌱 I’m currently learning ..AI and Machine Learning
-- 💞️ I’m looking to collaborate and work on ... open source, robotics and embedded systems projects
-- 📫 How to reach me ...jilchrisdascientist@gmail.com
+- 💞️ I’m looking to collaborate and work on ... open source, software engineering, robotics and embedded systems projects
+- 📫 How to reach me ...chukwuebukaukoha@gmail.com
 
 <!---
 Einsteinj04/Einsteinj04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
